@@ -1,6 +1,6 @@
 # Welcome to cProxy!
 
-In case you dont know what cProxy is, it is our proxy website with a built in tab cloak. So what are you waiting for? Deploy yours right now!
+In case you dont know what cProxy is, it is our proxy website with a built in tab cloak. So what are you waiting for? Deploy yours right now! please note that while deploying this repository, you must connect your github account with the provided services or the custom one you can use.
 
 ## Deploying cProxy
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/CDistrict/cProxy)
