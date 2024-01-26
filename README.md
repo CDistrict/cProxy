@@ -7,6 +7,8 @@ In case you dont know what cProxy is, it is our proxy website with a built in ta
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/CDistrict/cProxy)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/CDistrict/cProxy)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CDistrict/cProxy&branch=main&name=cProxy)
+[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/CDistrict/cProxy)
+
 
 ## Deploy manually
 1. Open a deployment service.
