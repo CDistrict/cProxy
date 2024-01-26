@@ -1,6 +1,6 @@
 # Welcome to cProxy!
 
-In case you dont know what cProxy is, it is our unblocker website with a built in tab cloak. You can access blocked sites without letting your teacher know!. So what are you waiting for? Deploy yours right now!
+In case you dont know what cProxy is, it is our proxy website with a built in tab cloak. So what are you waiting for? Deploy yours right now!
 
 ## Deploying cProxy
 Deploying cProxy is very easy. You just need to follow these steps. Please note that before doing these steps, the repo must be forked.
