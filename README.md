@@ -13,4 +13,4 @@ In case you dont know what cProxy is, it is our proxy website with a built in ta
 2. Go to the section where you can import repositories.
 3. Type in this link: github.com/[DELETE THIS AND TYPE IN YOUR GITHUB USERNAME]/cProxy
 4. Do all setup instructions that your deployment service tells you to do.
-   ### *Please note that to deploy manually, you need to fork this repository.
+    *Please note that to deploy manually, you need to fork this repository.
