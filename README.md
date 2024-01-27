@@ -11,9 +11,7 @@ In case you dont know what cProxy is, it is our proxy website with a built in ta
 [![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CDistrict/cProxy)
 ## Deploy manually
 1. Open a deployment service.
-2. Go to the section where you can import repositories.
-3. Type in this link: github.com/[DELETE THIS AND TYPE IN YOUR GITHUB USERNAME]/cProxy
-4. Do all setup instructions that your deployment service tells you to do.
-5. In index.html, make sure that on line 42, you change where it says, "YOUR_LINK" to the link of your deployment.
+2. Create a new project.
+3. 
 
    *Please note that to deploy manually, you need to fork this repository.
