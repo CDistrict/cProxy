@@ -12,6 +12,6 @@ In case you dont know what cProxy is, it is our proxy website with a built in ta
 ## Deploy manually
 1. Open a deployment service.
 2. Create a new project.
-3. Type in: `git clone https://github.com/CDistrict/cProxy' into the console.
+3. Type in: `git clone https://github.com/CDistrict/cProxy.git' into the console.
 
    *Please note that to deploy manually, you need to fork this repository.
