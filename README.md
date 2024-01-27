@@ -10,8 +10,11 @@ In case you dont know what cProxy is, it is our proxy website with a built in ta
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/CDistrict/cProxy)
 [![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CDistrict/cProxy)
 ## Deploy manually
+I recommend using codesandbox.io for these steps.
 1. Open a deployment service.
 2. Create a new project.
 3. Type in: `git clone https://github.com/CDistrict/cProxy.git` into the console.
-
-   *Please note that to deploy manually, you need to fork this repository.
+4. Create a new task named, start.
+5. In the console, type, `npm install`.
+6. Then, in the console, type, `npm run start`.
+7. Then, just follow setup instructions from there.
