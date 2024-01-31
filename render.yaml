@@ -1,5 +1,4 @@
-ake sure to place render.yaml at the root of your repository.
-services:
+services: 
   # A Docker web service
   - type: web
     name: webdis
