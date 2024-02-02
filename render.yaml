@@ -1,5 +1,5 @@
 services:
   - type: web
     name: cProxy
-    env: docker
+    env: node
     plan: free
